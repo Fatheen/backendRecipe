@@ -7,7 +7,7 @@ const FormData = require('form-data');
 const app = express();
 const port = 5000;
 
-const SPOONACULAR_API_KEY = '16fbd72107d74d6794ed4fbd7c3adc8b'; 
+
 
 
 const storage = multer.memoryStorage();
