@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ingredient-detection-app",
+  "private_key_id": "de556dc0b01f4cced021095425bb90d355d70609",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDHundn6RTAlteK\nCc3fszAuS9t+r3v1XD3JhEwoLV987f5o+lsrXEpMiwNUn31agvgHCfMZkTcRKel1\n42js5MHWDJBf3CzckuGthFAp4goqwiC0nQB2dUspdwxqltjIuKLoLeGxi5c8NglU\nTf2AvZOj7Px+ajqs4jxRMTxe9zwIoK+fCEW2iq/DIOeXCexUIRPGOQTsgsZwQBAO\nMzdwprSmPRbE5SIAX3/8JkFTZXsMbuaMa3fRYxepyIR7FFQU2nvI6sVuIdF1oNO7\nQw6LqeZZSU6MfzzDcl0hk95O/w0NZ7adeqHWVE8yGj/e8gPrB+0TQJ1NlZFuK3sE\n84Gn9quZAgMBAAECggEAAaeO4qqT7e5+wmZHZGsb4vfk5xbcD4T5zA51zqVlk5rc\ntZDq9wZ9ZROHuqIH/05zcIqwDvR2TZ5lXTRXkHk3c9oul5fmCHCJ2kHTPWDIFceX\ntSqE/PY5+6tzsmEluMmMXyEC+OrZNpOTnmh3YtaIzERXArl6Wyet0tX2FCrqV+Xw\nTG1gKxm1NaM/odO+m+Bk00e9vgOgh/ZK5oheG2vxvfkVVFZq40/gZwHoNIApwKe4\niGljZKhULJt22rQ9PcMICcjQ8T5J/RPry6MdXuWReakmh3/3vi4xMOGZBH540QlH\nyBFF89qBEZ5Rf8jk7OuNik+NeOsLZgd9ZD8hLXOlgQKBgQD9WT07e3q8SJbR4AKX\n46+C+aGPRphU7NLh5bhCkWIEDjP4JKijtvYSBUO+AdB/kMudfVGWPyd0VHrXbzFp\nOSVtfG3G50+oiWVBP4z59357ZR/iqKszarJ7hUT0svF6d6sRDth55z2ixYdx5mdp\nsDApo9PEWLJgndUbxJiRCnD/+QKBgQDJ0ZH8SMueuJ0yTUXW25OcLPGDcCysdhIY\nmMT4RbXIWfgAY+dqR4ra5eelmJx0bL/p4vRwPPfEp3mYOB68FK6wpKQSigM7eFK8\nzNvY4E4i74dPYpR/6qzYMTn6BetJWcIbs/QlzKOnakTZtfZ8hBVdjV8WIRwxNBLu\niSa6ld8woQKBgEfBeMhaJt8hKCZ1bgabJGDSV2H/OrIDCY+VwuSHzN0dMLb9mw4T\nigp8lz0/wk//MMyAbBVD+ebG7qwKAFKvLtydu3H0nek8UQNz/nfmE1rbv3YxE5xS\ngg7eJjOwYxiuwDLqo4GTby+lBsHJ4kxa7Kk+j4IzJQKccXmV6yhZbrvxAoGAP2f2\nQ5rjTjSWPq2EWaKW16RPJIpjnrNhsBSfHZlZKV8KyaSZmgxsFaXRh3dRAEsCaIsD\nXRfqiABN9YL8NP8SezDe02xE47RD2klKcPLX2aYDju9b1Gx4bVvZ6TFe4Kawk1+Q\nPyfx6rE6fGPs0uX0iHXX/+3bG6JOqF6yqkBX5MECgYB100f8sYDaZ9ArY01HrU0r\nxoxi+QjYSz8TGrYGxw63SkwRqdgrhBJRT9vfRco7bTt51Z2V6dYBUOI9OJKWTzs+\ngyBIbJtStL/mOybGplCgUvekbEey1Cza7nobIi0naKRn3W4j92xRCK7vFt5/L0VB\nptfo6SacMyLCBmecUie7fw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "fatheen1@ingredient-detection-app.iam.gserviceaccount.com",
+  "client_id": "110918723909255707381",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fatheen1%40ingredient-detection-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
